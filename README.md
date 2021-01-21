@@ -1,4 +1,4 @@
-# BMI-calculator
+# My-Notes 
 
 Created by:
 [Abhishek Saini](https://www.github.com/arnomalone)
